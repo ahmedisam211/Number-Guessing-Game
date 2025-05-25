@@ -5,6 +5,9 @@ Welcome to the Number Guessing Game! This is a simple command-line based game wr
 🔗 **Project URL:** [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it.
 
 ## 📋 Game Features
 
